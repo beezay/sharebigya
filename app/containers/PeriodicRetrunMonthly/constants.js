@@ -1,0 +1,10 @@
+/*
+ *
+ * PeriodicRetrunMonthly constants
+ *
+ */
+
+export const LOAD_PERIODICRETURN_MONTHLY_DATA = 'app/PeriodicRetrunMonthly/LOAD_PERIODICRETURN_MONTHLY_DATA';
+export const LOAD_PERIODICRETURN_MONTHLY_DATA_SUCCESS = 'app/PeriodicRetrunMonthly/LOAD_PERIODICRETURN_MONTHLY_DATA_SUCCESS';
+export const LOAD_PERIODICRETURN_MONTHLY_DATA_ERROR = 'app/PeriodicRetrunMonthly/LOAD_PERIODICRETURN_MONTHLY_DATA_ERROR';
+

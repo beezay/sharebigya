@@ -1,0 +1,9 @@
+/*
+ *
+ * PeriodicReturnYearly constants
+ *
+ */
+
+export const LOAD_PERIODICRETURNYEARLY_DATA = 'app/PeriodicReturnYearly/LOAD_PERIODICRETURNYEARLY_DATA';
+export const LOAD_PERIODICRETURNYEARLY_DATA_SUCCESS = 'app/PeriodicReturnYearly/LOAD_PERIODICRETURNYEARLY_DATA_SUCCESS';
+export const LOAD_PERIODICRETURNYEARLY_DATA_ERROR = 'app/PeriodicReturnYearly/LOAD_PERIODICRETURNYEARLY_DATA_ERROR';

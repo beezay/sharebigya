@@ -1,0 +1,13 @@
+.ant-table-thead > tr > th,
+.ant-table-tbody > tr > td,
+.ant-table tfoot > tr > th,
+.ant-table tfoot > tr > td {
+  position: relative;
+  padding: 2px;
+  overflow-wrap: break-word;
+}
+
+.MainPage__TreeMapWrapper-sc-1x9yze5-3.bNCQkg {
+  /* width: 30%;
+  height: 20%; */
+}

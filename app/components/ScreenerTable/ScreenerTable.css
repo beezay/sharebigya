@@ -1,0 +1,32 @@
+.ant-advanced-search-form--screenertable {
+  /* display: grid; */
+}
+.ant-row.screenertableform--fields {
+  display: grid;
+  grid-template-columns: auto auto auto auto auto;
+}
+.ant-col.ant-col-8.screenertableform--row-each {
+  max-width: inherit;
+}
+
+.ant-row.ant-form-item.screenertableform--row-each-labels {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.ant-col.ant-form-item-label {
+  justify-self: start;
+}
+.ant-row.screenertableform--fields {
+  padding: 30px;
+}
+.ant-col.ant-col-8.screenertableform--row-each {
+  display: flex;
+}
+.ant-row.ant-form-item.screenertableform--row-each-labels {
+  margin-bottom: 0px;
+}
+
+.ant-col.ant-col-8.screenertableform--row-each {
+  justify-content: flex-start;
+  align-items: center;
+}

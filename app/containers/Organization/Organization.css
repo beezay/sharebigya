@@ -1,0 +1,35 @@
+.container {
+  margin: auto;
+  width: 80vw;
+}
+
+.site-card-border-less-wrapper {
+  margin-top: 1rem;
+}
+
+.site-card-wrapper {
+  margin: 1rem auto;
+  background: #f5f6fa;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.card {
+  border-radius: 8px;
+}
+
+.org-details-container {
+  min-height: 300px;
+}
+
+.d-flex {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+  width: 100%;
+}
+
+.gutter-row {
+    margin-bottom: 1rem;
+}
